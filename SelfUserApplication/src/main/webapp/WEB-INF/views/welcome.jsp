@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Hello from Spring framework</h1>
-	<h3>${message}</h3>
+	
 </body>
 </html>
